@@ -105,5 +105,4 @@ public class DemoServiceTest extends ConfigService {
         Assert.assertEquals(statusCode, 200);
         Assert.assertEquals(bodyAsString.contains(testData.get("emailaddress")), true, "Chaim_McDermott@dana.io");
     }
-
 }

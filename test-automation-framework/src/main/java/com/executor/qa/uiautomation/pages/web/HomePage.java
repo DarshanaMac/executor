@@ -46,6 +46,8 @@ public class HomePage extends CommandBase {
         openPage(URL);
     }
 
+
+     //In this method mouse hover to product and mouse hover its child category then click on specific product page.
     public static void navigatesToProductPage() throws JAXBException, InterruptedException {
         HomePage homePage=new HomePage();
         WaitHelper waitHelper=new WaitHelper(Driver.getInstance().getWebDriver());
@@ -55,11 +57,13 @@ public class HomePage extends CommandBase {
         click(thirdsublevel);
     }
 
+    //Verify navigated page url and its products.
     public static void verifyProductPage(String expectedurl){
         verifyCurrentUrl(expectedurl);
         isElementDisplay(leafcategory);
     }
 
+    //Verify product list
     public static void verifyProductList(){
         int noofelements=elementlistsize(productlist);
         for (int element=1;element<=noofelements;element++){
@@ -67,6 +71,7 @@ public class HomePage extends CommandBase {
         }
     }
 
+    //Mouse hover to sub level product category
     public static void navigateToLeafCategory() throws JAXBException, InterruptedException {
         HomePage homePage=new HomePage();
         //wait using application loading time
@@ -75,6 +80,7 @@ public class HomePage extends CommandBase {
         mouseHover(secondsublevelcategory);
     }
 
+    // Verify all sub products of main category
     public static void verifyChildCategoryProducts(String products){
         int count=0;
         String str=products;
@@ -87,12 +93,13 @@ public class HomePage extends CommandBase {
         }
     }
 
+    //Mouse hover to desktop computer
     public static void navigateToDesktopComputersSubLevel() throws JAXBException, InterruptedException {
         mouseHover(lnkElectronicDevice);
         mouseHover(desktopscomputerssublevel);
-
     }
 
+    //Verify all sub products of desktop computers
     public static void verifyDesktopComputersLeafLevelItems(String products){
         int count=0;
         String product=products;

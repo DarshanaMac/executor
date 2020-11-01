@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/testcase_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/testcase_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/executor/qa/serviceautomation/DemoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/executor/qa/serviceautomation/DemoServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +270,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/HomePage.java</url>
-          <line>64</line>
+          <line>68</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
@@ -288,7 +290,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/HomePage.java</url>
-          <line>58</line>
+          <line>61</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
