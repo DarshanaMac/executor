@@ -1,0 +1,17 @@
+<testData>
+<suite>
+    <test name="jsonSchemaValidationTest">
+        <property name="jsonSchema">D:\New folder\test-automation-framework\src\main\resources\jsonSchema.json</property>
+		<property name="psotId">1</property>
+		<property name="basePath">/comments</property>
+    </test>
+    <test name="getTest">        
+		<property name="zipId">90210</property>
+		<property name="basePath">/us</property>
+    </test>
+    <test name="postTest">        
+		<property name="postJson">D:\New folder\test-automation-framework\src\main\resources\pet.json</property>
+		<property name="basePath">/us</property>
+    </test>
+</suite>
+</testData>

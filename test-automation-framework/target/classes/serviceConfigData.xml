@@ -1,0 +1,15 @@
+<configServiceData>
+    <properties>
+        <property name="testDataFilePath">D:\New folder\test-automation-framework\src\main\resources</property>
+        <property name="baseUrl">https://jsonplaceholder.typicode.com</property>
+        <property name="userid">10</property>
+        <property name="title">darshana</property>
+        <property name="body">konara</property>
+        <property name="filteridattribute">id</property>
+        <property name="filternameattribute">name</property>
+        <property name="filteremailattribute">email</property>
+        <property name="filterid">7</property>
+        <property name="filtername">Kurtis Weissnat</property>
+        <property name="emailaddress">Chaim_McDermott@dana.io</property>
+    </properties>
+</configServiceData>

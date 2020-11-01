@@ -1,0 +1,1 @@
+This framework is developed by me for my personal preferences. I am using this framework to implement given assignment. Separate command based use for web platform and web services i used restassured. Here i implemented reporting mechanisum. As a reporting technique i used allure report.

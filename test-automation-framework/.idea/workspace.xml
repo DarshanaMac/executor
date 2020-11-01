@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jYfg6Jfncb0OKUF74IOA1JZa25" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.executor.qa" />
+      <recent name="com.executor.qa.uiautomation.uiautomation" />
+      <recent name="com.executor.qa.automation.uiautomation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\New folder\test-automation-framework" />
+      <recent name="D:\New folder\test-automation-framework\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DemoServiceTest">
+    <configuration name="DemoServiceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.serviceautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.serviceautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.serviceautomation.DemoServiceTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testcaseOne" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.testcaseOne" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testcaseOne.navigateToHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.testcaseOne" />
+      <option name="METHOD_NAME" value="navigateToHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testcase_2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.testcase_2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testcase_2.NavigateToLeafCategory" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.testcase_2" />
+      <option name="METHOD_NAME" value="NavigateToLeafCategory" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DemoServiceTest" />
+        <item itemvalue="TestNG.testcase_2.NavigateToLeafCategory" />
+        <item itemvalue="TestNG.testcaseOne" />
+        <item itemvalue="TestNG.testcase_2" />
+        <item itemvalue="TestNG.testcaseOne.navigateToHomePage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="" />
+      <created>1603986053380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603986053380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="248" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604227888517">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="248" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1604227888517" />
+    <state x="396" y="45" width="881" height="591" key="#xdebugger.evaluate" timestamp="1604231177249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="45" width="881" height="591" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1604231177249" />
+    <state x="421" y="59" key="FileChooserDialogImpl" timestamp="1604239668478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604239668478" />
+    <state width="1237" height="373" key="GridCell.Tab.0.bottom" timestamp="1604241479086">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="373" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604241479086" />
+    <state width="1237" height="373" key="GridCell.Tab.0.center" timestamp="1604241479086">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="373" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604241479086" />
+    <state width="1237" height="373" key="GridCell.Tab.0.left" timestamp="1604241479086">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="373" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604241479086" />
+    <state width="1237" height="373" key="GridCell.Tab.0.right" timestamp="1604241479086">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="373" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604241479086" />
+    <state width="1237" height="212" key="GridCell.Tab.1.bottom" timestamp="1604231338991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604231338991" />
+    <state width="1237" height="212" key="GridCell.Tab.1.center" timestamp="1604231338991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1604231338991" />
+    <state width="1237" height="212" key="GridCell.Tab.1.left" timestamp="1604231338991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1604231338991" />
+    <state width="1237" height="212" key="GridCell.Tab.1.right" timestamp="1604231338991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1604231338991" />
+    <state x="316" y="41" key="NewModule_or_Project.wizard" timestamp="1604239669576">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="316" y="41" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1604239669576" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1604122116880">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1604122116880" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1604202408390">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604202408390" />
+    <state x="218" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604220350338">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="218" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1604220350338" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1604116830252">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1604116830252" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604206760327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1604206760327" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/executor/qa/uiautomation/mydialogtest/DialogTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/base/ConfigTestWeb.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/configurations/Driver.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/utils/CommandBase.java</url>
+          <line>321</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/HomePage.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/utils/CommandBase.java</url>
+          <line>178</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/base/ConfigService.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/base/ConfigService.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/HomePage.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/configurations/DataExtractor.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/configurations/Driver.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/base/ConfigTestWeb.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/configurations/DataExtractor.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/configurations/DataExtractor.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/base/ConfigTestWeb.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="dataRow" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/adl_qa_automation_framework$DemoServiceTest.ic" NAME="DemoServiceTest Coverage Results" MODIFIED="1604218511891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.executor.qa.serviceautomation.*</FILTER>
+    </SUITE>
+  </component>
+</project>

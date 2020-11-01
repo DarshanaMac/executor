@@ -1,0 +1,7 @@
+<testData>
+<suite>
+    <test name="navigateToHomePage">
+        <property name="expectedurl">https://www.lazada.sg/shop-2in1-laptops/</property>
+    </test>
+</suite>
+</testData>

@@ -1,0 +1,8 @@
+<testData>
+<suite>
+    <test name="NavigateToLeafCategory">
+        <property name="products">Mobiles,Tablets,Laptops,Desktops Computers,gaming Consoles,Action/Video Cameras,Security Cameras,Digital Cameras,Gadgets &amp; Drones</property>
+        <property name="desktopcomputersproducts">All-In-One,Gaming Desktops,DIY</property>
+    </test>
+</suite>
+</testData>
