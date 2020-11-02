@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/executor/qa/serviceautomation/DemoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/executor/qa/serviceautomation/DemoServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="D:\New folder\test-automation-framework\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DemoServiceTest">
+  <component name="RunManager" selected="TestNG.DemoServiceTest.postRequest">
     <configuration name="DemoServiceTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="sampletestautomationframework" />
       <extension name="coverage">
@@ -68,6 +68,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoServiceTest.postRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.serviceautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.serviceautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.serviceautomation.DemoServiceTest" />
+      <option name="METHOD_NAME" value="postRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testcaseOne" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="sampletestautomationframework" />
       <extension name="coverage">
@@ -79,24 +97,6 @@
       <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
       <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.testcaseOne" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testcaseOne.navigateToHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sampletestautomationframework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
-      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.testcaseOne" />
-      <option name="METHOD_NAME" value="navigateToHomePage" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DemoServiceTest.postRequest" />
         <item itemvalue="TestNG.DemoServiceTest" />
         <item itemvalue="TestNG.testcase_2.NavigateToLeafCategory" />
         <item itemvalue="TestNG.testcaseOne" />
         <item itemvalue="TestNG.testcase_2" />
-        <item itemvalue="TestNG.testcaseOne.navigateToHomePage" />
       </list>
     </recent_temporary>
   </component>
@@ -186,22 +186,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604239668478" />
-    <state width="1237" height="373" key="GridCell.Tab.0.bottom" timestamp="1604241479086">
+    <state width="1237" height="177" key="GridCell.Tab.0.bottom" timestamp="1604311650170">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="373" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604241479086" />
-    <state width="1237" height="373" key="GridCell.Tab.0.center" timestamp="1604241479086">
+    <state width="1237" height="177" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604311650170" />
+    <state width="1237" height="177" key="GridCell.Tab.0.center" timestamp="1604311650170">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="373" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604241479086" />
-    <state width="1237" height="373" key="GridCell.Tab.0.left" timestamp="1604241479086">
+    <state width="1237" height="177" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604311650170" />
+    <state width="1237" height="177" key="GridCell.Tab.0.left" timestamp="1604311650170">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="373" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604241479086" />
-    <state width="1237" height="373" key="GridCell.Tab.0.right" timestamp="1604241479086">
+    <state width="1237" height="177" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604311650170" />
+    <state width="1237" height="177" key="GridCell.Tab.0.right" timestamp="1604311650170">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="373" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604241479086" />
+    <state width="1237" height="177" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604311650170" />
     <state width="1237" height="212" key="GridCell.Tab.1.bottom" timestamp="1604231338991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -226,10 +226,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1604122116880" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1604300183659">
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1604311357350">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604300183659" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604311357350" />
     <state x="218" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604220350338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
