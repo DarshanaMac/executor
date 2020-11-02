@@ -20,22 +20,17 @@ public class DemoServiceTest extends ConfigService {
     @Test(testName = "Post request test", dataProvider = "getDefaultUser")
     @Step("Post request test")
     public void postRequest(Map<String, String> testData) {
+        JSONObject request = new JSONObject();
+        request.put(testData.get("filteridattribute"), testData.get("userid"));
 
-      /*  RequestBuilder requestBuilder = new RequestBuilder();
-        RequestSpecification requestSpecification = requestBuilder.addPathParam("id", ).build();
+        given().body(request.toString()).when().post("https://jsonplaceholder.typicode.com/posts").then().statusCode(201);
+        RequestBuilder requestBuilder = new RequestBuilder();
+        RequestSpecification requestSpecification = requestBuilder.addPathParam("id", testData.get("userid")).build();
         Response response = given().spec(requestSpecification).when().get("https://jsonplaceholder.typicode.com/posts/{id}");
         String bodyAsString = response.asString();
         int statusCode = response.getStatusCode();
         Assert.assertEquals(statusCode, 200, "Correct status code returned");
-        Assert.assertEquals(bodyAsString.contains(testData.get("userid")), true, "Response body contains 10"); */
-
-
-        JSONObject request = new JSONObject();
-        request.put(testData.get("filteridattribute"), testData.get("userid"));
-        System.out.println(request);
-        System.out.println(request.toString());
-
-        given().body(request.toString()).when().post("https://jsonplaceholder.typicode.com/posts").then().statusCode(201 );
+        Assert.assertEquals(bodyAsString.contains(testData.get("userid")), true, "Response body contains 10");
     }
 
 
