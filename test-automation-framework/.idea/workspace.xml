@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/testcase_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/testcase_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/executor/qa/serviceautomation/DemoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/executor/qa/serviceautomation/DemoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,10 +226,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1604122116880" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1604202408390">
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1604300183659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604202408390" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604300183659" />
     <state x="218" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604220350338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
