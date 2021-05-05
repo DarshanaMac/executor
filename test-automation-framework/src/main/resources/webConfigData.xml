@@ -13,6 +13,5 @@
     <urls>
         <!--<url>http://192.168.43.29:5555/wd/hub</url>
        <url>http://192.168.43.3:6666/wd/hub</url>-->
-
     </urls>
 </configDataWeb>

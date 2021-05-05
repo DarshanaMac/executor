@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/executor/qa/serviceautomation/DemoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/executor/qa/serviceautomation/DemoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/configurations/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/configurations/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/webConfigData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/webConfigData.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,22 +187,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604239668478" />
-    <state width="1237" height="124" key="GridCell.Tab.0.bottom" timestamp="1604314551083">
+    <state width="1237" height="124" key="GridCell.Tab.0.bottom" timestamp="1604314612380">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="124" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604314551083" />
-    <state width="1237" height="124" key="GridCell.Tab.0.center" timestamp="1604314551083">
+    <state width="1237" height="124" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604314612380" />
+    <state width="1237" height="124" key="GridCell.Tab.0.center" timestamp="1604314612380">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="124" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604314551083" />
-    <state width="1237" height="124" key="GridCell.Tab.0.left" timestamp="1604314551082">
+    <state width="1237" height="124" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604314612380" />
+    <state width="1237" height="124" key="GridCell.Tab.0.left" timestamp="1604314612380">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="124" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604314551082" />
-    <state width="1237" height="124" key="GridCell.Tab.0.right" timestamp="1604314551083">
+    <state width="1237" height="124" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604314612380" />
+    <state width="1237" height="124" key="GridCell.Tab.0.right" timestamp="1604314612380">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="124" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604314551083" />
+    <state width="1237" height="124" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604314612380" />
     <state width="1237" height="212" key="GridCell.Tab.1.bottom" timestamp="1604231338991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -226,10 +227,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1604122116880" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1604314318217">
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1606579100432">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604314318217" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1606579100432" />
     <state x="218" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604220350338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

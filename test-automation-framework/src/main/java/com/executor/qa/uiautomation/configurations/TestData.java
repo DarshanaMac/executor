@@ -19,6 +19,4 @@ public class TestData {
     @XmlElement(name = "suite")
     @XmlJavaTypeAdapter(MapAdapterTestData.class)
     private HashMap<String, List<HashMap<String,String>>> testMethodData;
-
-
 }
